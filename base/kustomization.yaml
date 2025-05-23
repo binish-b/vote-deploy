@@ -6,4 +6,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: binishb/vote
-  newTag: v5
+  newTag: v2
